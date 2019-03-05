@@ -5,9 +5,13 @@ Face image classification using Gaussian model, Mixture of Gaussian model, t-dis
 
 ## Models
 Model 1 - Single Gaussian model.
+
 Model 2 - Mixture of Gaussians.
+
 Model 3 - t-distribution model.
+
 Model 4 - Mixture of t-distributions.
+
 Model 5 - Factor analyzer.
 
 ## Dataset
